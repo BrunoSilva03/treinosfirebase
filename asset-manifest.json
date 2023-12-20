@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/treinosfirebase/static/css/main.f855e6bc.css",
+    "main.js": "/treinosfirebase/static/js/main.40954200.js",
+    "static/js/787.61d2d508.chunk.js": "/treinosfirebase/static/js/787.61d2d508.chunk.js",
+    "static/media/logo.svg": "/treinosfirebase/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/treinosfirebase/index.html",
+    "main.f855e6bc.css.map": "/treinosfirebase/static/css/main.f855e6bc.css.map",
+    "main.40954200.js.map": "/treinosfirebase/static/js/main.40954200.js.map",
+    "787.61d2d508.chunk.js.map": "/treinosfirebase/static/js/787.61d2d508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.40954200.js"
+  ]
+}
